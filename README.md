@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="hotella.png" alt="Hotela Logo" width="220">
+  <img src="hotella.png" alt="Hotela Logo" width="500">
 
-# Hotela
+
 
 Modern Hotel Reservation API built with Django REST Framework
 

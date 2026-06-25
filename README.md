@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="hotela.png" alt="Hotela Logo" width="700">
+  <img src="hotella.png" alt="Hotela Logo" width="700">
 
 
 
 Modern Hotel Reservation API built with Django REST Framework
 
-![Python](https://img.shields.io/badge/Python-3.11+-blue)
+![Python](https://img.shields.io/badge/Python-3.12+-blue)
 ![Django](https://img.shields.io/badge/Django-5.x-green)
 ![DRF](https://img.shields.io/badge/DRF-red)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)

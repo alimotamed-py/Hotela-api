@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="hotella.png" alt="Hotela Logo" width="700">
+  <img src="hotela.png" alt="Hotela Logo" width="700">
 
 
 
